@@ -1,0 +1,3 @@
+apply from: "../../java.gradle"
+
+compile project(":components:movies")
